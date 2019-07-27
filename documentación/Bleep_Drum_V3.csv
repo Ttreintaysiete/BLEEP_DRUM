@@ -16,7 +16,7 @@
 "1";"47p";"C-USC0603";"C0603";"C29";"CAPACITOR, American symbol";"";"";"";"";"";
 "2";"47u";"CPOL-USD";"PANASONIC_D";"C25, C30";"POLARIZED CAPACITOR, American symbol";"";"";"";"";"";
 "1";"7805DT";"7805DT";"TO252";"IC2";"Positive VOLTAGE REGULATOR";"";"";"";"";"";
-"1";"ATMEGA88PA-AU";"ATMEGA168";"TQFP32-08";"IC6";"";"";"";"";"";"";
+"1";"ATMEGA328P-AU";"TQFP32-08";"IC6";"";"";"";"";"";"";
 "1";"AVRISP";"AVR_SPI_PRG_6PTH";"2X3";"AVR_ISP";"AVR ISP 6 Pin";"";"";"";"";"";
 "4";"D6R";"D6R";"D6R";"SW_B, SW_G, SW_R, SW_Y";"C&K D6R";"";"";"";"";"";
 "1";"M05X2SHD";"M05X2SHD";"2X5-SHROUDED";"JP1";"Header 5x2";"";"";"";"";"";
